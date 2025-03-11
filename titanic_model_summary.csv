@@ -1,0 +1,6 @@
+Model,Accuracy
+Forest,0.8212
+KNN,0.8156
+SVM,0.8156
+Regression,0.8101
+Tree,0.7989
